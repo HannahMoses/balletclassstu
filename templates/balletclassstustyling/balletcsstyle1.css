@@ -1,0 +1,32 @@
+body{color : red;
+    background-color: pink;
+
+}
+h1{ text-align: center;
+    color:red ;
+
+}
+h2   {  color:pink;
+        background-color:rgb(120,20,5);
+        text-align:left;
+
+     }
+p    { text-align:center;
+       font-size :30px;
+	   font-weight:bold;
+     }
+p1{ text-align:left;
+	color:pink;
+
+}
+div{    border: 2px solid black;
+    height:215px;
+    width: 388px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    margin-left: 460px;
+    background-color:pink;
+    padding : 12px 15px 12px 15px;
+
+}
